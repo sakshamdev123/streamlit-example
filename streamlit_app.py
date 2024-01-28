@@ -1,7 +1,3 @@
-pip install matplotlib
-pip install sklearn
-pip install keras
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
